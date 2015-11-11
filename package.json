@@ -1,0 +1,26 @@
+{
+  "name": "NotesEverywhere",
+  "version": "0.0.0",
+  "description": "Note API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zahadum/noteseverywhere.git"
+  },
+  "keywords": [
+    "notes",
+    "node"
+  ],
+  "author": "Trung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zahadum/noteseverywhere/issues"
+  },
+  "homepage": "https://github.com/Zahadum/noteseverywhere",
+  "dependencies": {
+    "express": "~4.13.3"
+  }
+}
